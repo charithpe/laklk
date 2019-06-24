@@ -20,13 +20,13 @@ css files are missing, but you can get basic layout, by using Twitter Bootstrap 
 
 ## Project info
 
-* [Official website][osclass]
+* [Official website][lak]
 * [Code repository][code]
 * [Mailing list][mailing]
 * License: [Apache License V2.0][license]
 
 
-[osclass]: http://lak.lk/
+[lak]: http://lak.lk/
 [preview]: http://lak.lk
 [mailing]: http://lak.lk/contact
 [license]: http://www.apache.org/licenses/LICENSE-2.0
