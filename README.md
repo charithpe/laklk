@@ -20,8 +20,7 @@ css files are missing, but you can get basic layout, by using Twitter Bootstrap 
 
 ## Project info
 
-* Officia [classifieds] website [lak]
-* [Code repository][code]
+* Official website [lak]
 * [Mailing list][mailing]
 * License: [Apache License V2.0][license]
 
